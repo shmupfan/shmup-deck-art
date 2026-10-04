@@ -2318,5 +2318,69 @@
   ],
   "bytes": 42174,
   "source": "https://raw.githubusercontent.com/libretro-thumbnails/MAME/98a416763471b2325914712aec42b9fe7cf5d37b/Named_Boxarts/1945k%20III.png"
+ },
+ "skykid": {
+  "size": [
+   639,
+   900
+  ],
+  "bytes": 108682,
+  "source": "https://images.launchbox-app.com/79b05750-532b-4b19-8346-24159437e3e3.jpg"
+ },
+ "transfrm": {
+  "size": [
+   640,
+   892
+  ],
+  "bytes": 98910,
+  "source": "https://images.launchbox-app.com/e01e3d5e-d449-40ec-99e5-6cebffe2dac1.jpg"
+ },
+ "gardia": {
+  "size": [
+   640,
+   899
+  ],
+  "bytes": 145610,
+  "source": "https://www.arcadeartwork.org/galleries/mmefly2b/gardiaj.png"
+ },
+ "atlantis": {
+  "size": [
+   614,
+   900
+  ],
+  "bytes": 108576,
+  "source": "https://flyers.arcade-museum.com/videogame-flyers/0/battle-of-atlantis-00104-01.jpg"
+ },
+ "mars": {
+  "size": [
+   632,
+   900
+  ],
+  "bytes": 101042,
+  "source": "https://flyers.arcade-museum.com/videogame-flyers/0/mars-00616-01.jpg"
+ },
+ "cmissnx": {
+  "size": [
+   640,
+   838
+  ],
+  "bytes": 97336,
+  "source": "https://images.launchbox-app.com/2639e5a5-6dcf-4ef2-a909-3b10c58d8c9f.jpg"
+ },
+ "bioatack": {
+  "size": [
+   520,
+   900
+  ],
+  "bytes": 89684,
+  "source": "https://images.launchbox-app.com/77d6106f-89c3-49ca-8394-304e65f3ea57.jpg"
+ },
+ "spaceod": {
+  "size": [
+   640,
+   831
+  ],
+  "bytes": 74446,
+  "source": "https://images.launchbox-app.com/ce44519b-23df-4ed9-8af0-9f720e8b0449.jpg"
  }
 }
