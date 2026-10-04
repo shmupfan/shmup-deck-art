@@ -2310,5 +2310,13 @@
   ],
   "bytes": 95362,
   "source": "https://images.launchbox-app.com/685a8689-1e8b-405f-b4c0-76d651cd29b2.jpg"
+ },
+ "1945kiii": {
+  "size": [
+   512,
+   708
+  ],
+  "bytes": 42174,
+  "source": "https://raw.githubusercontent.com/libretro-thumbnails/MAME/98a416763471b2325914712aec42b9fe7cf5d37b/Named_Boxarts/1945k%20III.png"
  }
 }
